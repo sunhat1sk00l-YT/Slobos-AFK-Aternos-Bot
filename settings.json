@@ -2,7 +2,7 @@
   "name": "SunBot",
   "bot-account": {
     "username": "SunBot",
-    "password": "",
+    "password": "SunBot",
     "type": "online"
   },
   "server": {
