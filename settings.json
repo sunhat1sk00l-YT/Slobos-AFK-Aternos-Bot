@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "SunBot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SunBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SunSideSMP.aternos.me",
